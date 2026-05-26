@@ -43,6 +43,13 @@
         }
       },
       {
+        "threshold": 13006,
+        "model": {
+          "type": "model",
+          "model": "item/termina_block"
+        }
+      },
+      {
         "threshold": 13010,
         "model": {
           "type": "model",
