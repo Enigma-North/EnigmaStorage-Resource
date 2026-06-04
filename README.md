@@ -9,7 +9,8 @@ This resource pack is specially designed for the Enigma North storage system, in
 <img width="600" height="339" alt="Enigma Storage Rack" src="https://github.com/user-attachments/assets/d23a0981-c09d-4373-af42-942fd5f9192e" />
 
 ### Wireless Router
-<img width="600" height="339" alt="{9E8D4897-C08F-411F-83FC-3E1F2CA8B802}" src="https://github.com/user-attachments/assets/bbc7d75d-d389-4803-934f-8f6870db08a0" />
+<img width="600" height="339" alt="{24A2CE96-05EA-41F4-865B-BB80B96A5DBD}" src="https://github.com/user-attachments/assets/aa0cf0c3-02e9-46e6-b3e9-f7eef34beb80" />
+
 
 
 ### Wall Terminal 
