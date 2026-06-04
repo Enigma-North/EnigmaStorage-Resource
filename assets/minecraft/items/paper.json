@@ -13,6 +13,13 @@
           "type": "model",
           "model": "block/enigma/router"
         }
+      },
+      {
+        "threshold": 13008,
+        "model": {
+          "type": "model",
+          "model": "block/enigma/router_off"
+        }
       }
     ]
   }
