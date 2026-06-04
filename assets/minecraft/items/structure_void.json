@@ -41,6 +41,13 @@
           "type": "model",
           "model": "item/es_workbench"
         }
+      },
+      {
+        "threshold": 13007,
+        "model": {
+          "type": "model",
+          "model": "block/enigma/router"
+        }
       }
     ]
   }
