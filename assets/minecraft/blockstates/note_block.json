@@ -11,15 +11,6 @@
     "instrument=harp,note=4,powered=false": { "model": "minecraft:block/enigma/enigma_dsu_server4" },
     "instrument=harp,note=4,powered=true":  { "model": "minecraft:block/enigma/enigma_dsu_server4" },
     "instrument=harp,note=5,powered=false": { "model": "minecraft:block/enigma/enigma_dsu_server5" },
-    "instrument=harp,note=5,powered=true":  { "model": "minecraft:block/enigma/enigma_dsu_server5" },
-
-    "instrument=bass,note=0,powered=false": { "model": "minecraft:block/enigma/router", "y": 0 },
-    "instrument=bass,note=0,powered=true":  { "model": "minecraft:block/enigma/router", "y": 0 },
-    "instrument=bass,note=1,powered=false": { "model": "minecraft:block/enigma/router", "y": 90 },
-    "instrument=bass,note=1,powered=true":  { "model": "minecraft:block/enigma/router", "y": 90 },
-    "instrument=bass,note=2,powered=false": { "model": "minecraft:block/enigma/router", "y": 180 },
-    "instrument=bass,note=2,powered=true":  { "model": "minecraft:block/enigma/router", "y": 180 },
-    "instrument=bass,note=3,powered=false": { "model": "minecraft:block/enigma/router", "y": 270 },
-    "instrument=bass,note=3,powered=true":  { "model": "minecraft:block/enigma/router", "y": 270 }
+    "instrument=harp,note=5,powered=true":  { "model": "minecraft:block/enigma/enigma_dsu_server5" }
   }
 }
