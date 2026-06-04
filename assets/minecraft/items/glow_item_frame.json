@@ -11,7 +11,7 @@
         "threshold": 13005,
         "model": {
           "type": "model",
-          "model": "item/termina_block"
+          "model": "item/es_wall_terminal"
         }
       }
     ]
