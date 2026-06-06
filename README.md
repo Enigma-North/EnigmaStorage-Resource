@@ -1,6 +1,6 @@
 # Enigma Storage Resourcepack 
 
-This resource pack is specially designed for the Enigma North storage system, inspired by Applied Energistics 2.
+This resource pack is specially designed for the Enigma North storage system.
 
 [Enigma North](https://enigmanorth.ltht.app) · [Plugin on Modrinth](https://modrinth.com/plugin/enigma-storage) · [Plugin on SpigotMC](https://www.spigotmc.org/resources/enigma-storage.135366/)
 
