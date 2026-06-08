@@ -1,8 +1,11 @@
 # Enigma Storage Resourcepack 
 
+[![Website](https://img.shields.io/badge/Visit-Our_Website-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://enigmanorth.ltht.app/)
+[![Discord](https://img.shields.io/badge/Join_Our-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PdhWHCwUWm)
+
 This resource pack is specially designed for the Enigma North storage system.
 
-[Enigma North](https://enigmanorth.ltht.app) · [Plugin on Modrinth](https://modrinth.com/plugin/enigma-storage) · [Plugin on SpigotMC](https://www.spigotmc.org/resources/enigma-storage.135366/)
+[Plugin on Modrinth](https://modrinth.com/plugin/enigma-storage) · [Plugin on SpigotMC](https://www.spigotmc.org/resources/enigma-storage.135366/)
 
 ---
 ### Server Rack
