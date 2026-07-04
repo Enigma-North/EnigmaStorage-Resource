@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "Pictures:server-rack-texture",
-		"1": "Pictures:blade-texture",
-		"particle": "Pictures:server-rack-texture"
+		"0": "minecraft:block/enigma/server-rack-texture",
+		"1": "minecraft:block/enigma/blade-texture",
+		"particle": "minecraft:block/enigma/server-rack-texture"
 	},
 	"elements": [
 		{
